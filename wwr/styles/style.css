@@ -325,7 +325,7 @@ nav {
     grid-row: 6/7;
 }
 footer {
-    background-color: #6f7364;
+    background-color: #E2CFEA;
     padding: 25px 50px;
     margin-top: 200px; 
     display: flex;
@@ -333,29 +333,29 @@ footer {
     align-items: center;
 }
 .rivers-card {
-    width: 100px;
-    height: 100px;
+    width: 25px;
+    height: 25px;
     background: #623B5A;
     transition: width .5s;
 }
 .camping-card {
-    width: 100px;
-    height: 100px;
+    width: 25px;
+    height: 25px;
     background: #623B5A;
     transition: width .5s;
 }
 .rapids-card {
-    width: 100px;
-    height: 100px;
+    width: 25px;
+    height: 25px;
     background: #623B5A;
     transition: width .5s;
 }
 .rivers-card:hover {
-    width: 300px;
+    width: 50px;
 }
 .camping-card:hover {
-    width: 300px;
+    width: 50;
 }
 .rapids-card:hover {
-    width: 300px;
+    width: 50px;
 }
