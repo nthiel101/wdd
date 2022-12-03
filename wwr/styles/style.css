@@ -119,3 +119,138 @@ footer a {
     color: #623B5A;
     text-decoration: none;
 }
+.home-title {
+    font-family: 'Montserrat', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2em;
+}
+.book, .join {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+}
+.msg p {
+    font-family:
+    font-size: .8em;
+}
+.msg {
+  background-color: #6f7364;
+  line-height: 1.5em;
+}
+body {
+    background-color: #fcfbfb;
+    font-family: 'Lato', sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    margin: 0;
+}
+nav a {
+    text-decoration: none;
+    color: #fcfbfb;
+    text-align: center;
+    padding: 35px;
+}
+#logo_link {
+    text-decoration: none;
+    color: #fcfbfb;
+    text-align: center;
+    padding-top: 5px;
+}
+nav a {
+    text-decoration: none;
+    color: #fcfbfb;
+    text-align: center;
+    padding: 35px;
+}
+.book, .join {
+    text-decoration: none;
+    color: #fcfbfb;
+    text-align: center;
+    padding: 15px 30px;
+}
+.icon { 
+    text-decoration: none;
+    color: #fcfbfb;
+    text-align: center;
+    padding-top: 10px;
+}
+.msg {
+    text-decoration: none;
+    color: #fcfbfb;
+    text-align: center;
+    padding: 35px;
+}
+.msg p {
+    text-decoration: none;
+    color: #fcfbfb;
+    text-align: center;
+    padding-bottom: 15px;
+}
+footer {
+    text-decoration: none;
+    color: #fcfbfb;
+    text-align: center;
+    padding: 25px 50px;
+}
+footer .social img { 
+    text-decoration: none;
+    color: #fcfbfb;
+    text-align: center;
+    padding-top: 15px;
+}
+.book, .join {
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+}
+.home-title {
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 10px;
+}
+.book, .join {
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+}
+.rivers-card, .camping-card, .rapids-card {
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin: 200px 0;
+}
+footer {
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 200px;
+}
+.book, .join {
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.card-img {
+    border: 10px solid #d9c2a3;
+}
+main section img {
+    box-sizing: border-box;
+}
