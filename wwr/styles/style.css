@@ -270,3 +270,15 @@ nav {
     justify-self: center;
     align-self: center;
 }
+#hero {
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+}
+#hero-box {
+    grid-column: 1/4;
+    grid-row: 1/3;
+}
+#hero-msg {
+    grid-column: 2fr, 3fr;
+    grid-row: 1fr, 2fr;
+}
