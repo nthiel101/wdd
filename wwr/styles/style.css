@@ -41,6 +41,9 @@ nav a:hover {
 footer {
     background-color: #E2CFEA;
 }
+footer a {
+    background-color: #E2CFEA;
+}
 .icon {
     width: 80px;
 }
@@ -116,7 +119,7 @@ nav a {
 }
 footer a {
     text-align: center;
-    color: #E2CFEA;
+    color: #623B5A;
     text-decoration: none;
 }
 .home-title {
@@ -165,37 +168,37 @@ nav a {
 }
 .book, .join {
     text-decoration: none;
-    color: #fcfbfb;
+    color: #ffffff;
     text-align: center;
     padding: 15px 30px;
 }
 .icon { 
     text-decoration: none;
-    color: #fcfbfb;
+    color: #ffffff;
     text-align: center;
     padding-top: 10px;
 }
 .msg {
     text-decoration: none;
-    color: #fcfbfb;
+    color: #ffffff;
     text-align: center;
     padding: 35px;
 }
 .msg p {
     text-decoration: none;
-    color: #fcfbfb;
+    color: #ffffff;
     text-align: center;
     padding-bottom: 15px;
 }
 footer {
     text-decoration: none;
-    color: #fcfbfb;
+    color: #ffffff;
     text-align: center;
     padding: 25px 50px;
 }
 footer .social img { 
     text-decoration: none;
-    color: #fcfbfb;
+    color: #ffffff;
     text-align: center;
     padding-top: 15px;
 }
