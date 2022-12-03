@@ -120,15 +120,15 @@ footer a {
     text-decoration: none;
 }
 .home-title {
-    font-family: 'Montserrat', Arial, sans-serif;
+    font-family: 'Book Antiqua', 'Palatino',Georgia,serif; 
     font-size: 2em;
 }
 .book, .join {
-    font-family: 'Lato', Arial, sans-serif;
+    font-family: Times, "Times New Roman", Georgia, serif; 
     font-size: 18px;
 }
 .msg p {
-    font-family: 'Lato', sans-serif;
+    font-family: Times, "Times New Roman", Georgia, serif;
     font-size: .8em;
 }
 .msg {
