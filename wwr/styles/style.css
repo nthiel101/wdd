@@ -324,6 +324,14 @@ nav {
     grid-column: 6/10;
     grid-row: 6/7;
 }
+section {
+    background-color: #E2CFEA;
+    padding: 25px 50px;
+    margin-top: 200px; 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
 footer {
     background-color: #E2CFEA;
     padding: 25px 50px;
