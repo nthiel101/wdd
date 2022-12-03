@@ -335,26 +335,26 @@ footer {
 .rivers-card {
     width: 25px;
     height: 25px;
-    background: #623B5A;
-    transition: width .5s;
+    background: #ffffff;
+    transition: width 0.5s;
 }
 .camping-card {
     width: 25px;
     height: 25px;
-    background: #623B5A;
-    transition: width .5s;
+    background: #ffffff;
+    transition: width 0.5s;
 }
 .rapids-card {
     width: 25px;
     height: 25px;
-    background: #623B5A;
-    transition: width .5s;
+    background: #ffffff;
+    transition: width 0.5s;
 }
 .rivers-card:hover {
     width: 50px;
 }
 .camping-card:hover {
-    width: 50;
+    width: 50px;
 }
 .rapids-card:hover {
     width: 50px;
