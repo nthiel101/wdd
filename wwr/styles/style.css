@@ -368,21 +368,16 @@ footer {
     opacity: .6;
     transform: scale(1.1);
 }
-.mountains {
-    border: 10px solid #d9c2a3;
-    transition: transform .5s;
-    box-shadow: 5px 5px 10px #6f7364;
-}
-.mountains:hover {
-    opacity: .6;
-    transform: scale(1.1);
-}
 .msg {
-    border: 10px solid #d9c2a3;
-    transition: transform .5s;
+    background-color: #6f7364;
+    padding: 35px;
+    grid-column: 6/10;
+    grid-row: 6/7;
     box-shadow: 5px 5px 10px #6f7364;
 }
-.msg:hover {
-    opacity: .6;
-    transform: scale(1.1);
+.mountains {
+    width: 100%;
+    grid-column: 2/7;
+    grid-row: 5/8;
+    box-shadow: 5px 5px 10px #6f7364;
 }
