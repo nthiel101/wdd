@@ -136,7 +136,7 @@ footer a {
   line-height: 1.5em;
 }
 body {
-    background-color: #fcfbfb;
+    background-color: #ffffff;
     font-family: 'Lato', sans-serif;
     font-size: 22px;
     margin: 0;
@@ -147,19 +147,19 @@ h2 {
 }
 nav a {
     text-decoration: none;
-    color: #fcfbfb;
+    color: #ffffff;
     text-align: center;
     padding: 35px;
 }
 #logo_link {
     text-decoration: none;
-    color: #fcfbfb;
+    color: #ffffff;
     text-align: center;
     padding-top: 5px;
 }
 nav a {
     text-decoration: none;
-    color: #fcfbfb;
+    color: #ffffff;
     text-align: center;
     padding: 35px;
 }
@@ -358,4 +358,31 @@ footer {
 }
 .rapids-card:hover {
     width: 50px;
+}
+.card-img {
+    border: 10px solid #d9c2a3;
+    transition: transform .5s;
+    box-shadow: 5px 5px 10px #6f7364;
+}
+.card-img:hover {
+    opacity: .6;
+    transform: scale(1.1);
+}
+.mountains {
+    border: 10px solid #d9c2a3;
+    transition: transform .5s;
+    box-shadow: 5px 5px 10px #6f7364;
+}
+.mountains:hover {
+    opacity: .6;
+    transform: scale(1.1);
+}
+.msg {
+    border: 10px solid #d9c2a3;
+    transition: transform .5s;
+    box-shadow: 5px 5px 10px #6f7364;
+}
+.msg:hover {
+    opacity: .6;
+    transform: scale(1.1);
 }
