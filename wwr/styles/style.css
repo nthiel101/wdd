@@ -116,11 +116,11 @@ nav a {
 }
 footer a {
     text-align: center;
-    color: #623B5A;
+    color: #E2CFEA;
     text-decoration: none;
 }
 .home-title {
-    font-family: 'Book Antiqua', Georgia; 
+    font-family: 'Montserrat', sans-serif;
     font-size: 2em;
 }
 .book, .join {
