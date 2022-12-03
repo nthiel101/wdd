@@ -321,7 +321,7 @@ nav {
     grid-row: 5/8;
 }
 .msg {
-    grid-column: 6-10;
+    grid-column: 6/10;
     grid-row: 6/7;
 }
 footer {
