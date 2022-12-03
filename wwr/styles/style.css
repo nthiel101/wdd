@@ -324,3 +324,29 @@ nav {
     grid-column: 6-10;
     grid-row: 6/7;
 }
+footer {
+    background-color: #6f7364;
+    padding: 25px 50px;
+    margin-top: 200px; 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.rivers-card {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: width .5s;
+  }
+.camping-card {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: width .5s;
+  }
+.rapids-card {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: width .5s;
+  }
