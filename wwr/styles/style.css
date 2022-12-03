@@ -120,11 +120,11 @@ footer a {
     text-decoration: none;
 }
 .home-title {
-    font-family: 'Montserrat', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Montserrat', Arial, sans-serif;
     font-size: 2em;
 }
 .book, .join {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato', Arial, sans-serif;
     font-size: 18px;
 }
 .msg p {
