@@ -81,8 +81,8 @@
     align-items: center;
   }
   .home-title, h4 {
-    color: #623B5A;
-    font-family: 'Smooch', cursive;
+    color: #0000;
+    font-family:  'Montserrat', sans-serif;
     font-size: 2em;
     margin-top: 10px;
     letter-spacing: 2px;
@@ -90,17 +90,17 @@
   }
   
   .msg h2, p {
-    color: #623B5A;
+    color: #0000;
   }
   footer h3{
-    color: #623B5A;
+    color: #0000;
   }
   footer a {
-    color: #623B5A;
+    color: #0000;
     text-decoration: none
   }
   footer a:hover {
-    color: #623B5A;
+    color: #0000;
   }
   
   .logo, .icon {
@@ -220,7 +220,7 @@
     transform: scale(1.1);
   }
   .card-img {
-    border: solid black 10px;
+    border: solid #351431 10px;
    
     transition: transform .5s;
     box-shadow: 5px 5px 10px #000000;
@@ -262,7 +262,7 @@
     }
     .home-title {
         font-size: 25px;
-        color: #ffffff;
+        color: #E2CFEA;
     }
    
   
