@@ -22,14 +22,14 @@
   }
   
   body {
-    background-color: pink;
+    background-color: rgb(255, 255, 255);
     margin: 0;
     padding: 0;
     font-size: 22px;
   
   }
   header {
-    background-color: darkgrey;
+    background-color: #6320EE;
     width: 100%;
     display: grid;
     grid-template-columns: 150px auto;
@@ -37,16 +37,16 @@
   }
   nav a:hover {
     background-color: white;
-    color: blue;
+    color: #E2CFEA;
   }
   nav a {
-    color: gold;
+    color: #623B5A;
     text-decoration: none;
     padding: 35px;
     text-align: center;
   }
   .book, .join {
-    background-color: rgb(144, 185, 238) ;
+    background-color: #623B5A;
     color: white;
     font-size: 18px;
     text-decoration: none;
@@ -56,24 +56,24 @@
   }
   
   .book:hover, .join:hover {
-    background-color: red;
-    color: black;
+    background-color: #E2CFEA;
+    color: #0000;
   }
   
   #background {
-    background-color: purple;
+    background-color: #623B5A;
     height: 725px;
   }
   
   .msg {
-    background-color: #6f7364;
+    background-color: #623B5A;
     padding: 35px;
     grid-column: 6/10;
     grid-row: 6/7;
-    box-shadow: 5px 5px 10px #6f7364;
+    box-shadow: 5px 5px 10px #351431;
   }
   footer {
-    background-color: #6f7364;
+    background-color: #623B5A;
     padding: 25px 50px;
     margin-top: 200px;
     display: flex;
@@ -81,26 +81,26 @@
     align-items: center;
   }
   .home-title, h4 {
-    color: black;
+    color: #623B5A;
     font-family: 'Smooch', cursive;
     font-size: 2em;
     margin-top: 10px;
     letter-spacing: 2px;
-    /* font-family: 'Josefin Sans', sans-serif; */
+    /* font-family: 'Montserrat', sans-serif;, serif; */
   }
   
   .msg h2, p {
-    color: black;
+    color: #623B5A;
   }
   footer h3{
-    color: black;
+    color: #623B5A;
   }
   footer a {
-    color: gold;
+    color: #623B5A;
     text-decoration: none
   }
   footer a:hover {
-    color: white;
+    color: #623B5A;
   }
   
   .logo, .icon {
@@ -207,7 +207,7 @@
     width: 100%;
     grid-column: 2/7;
     grid-row: 5/8;
-    box-shadow: 5px 5px 10px #6f7364;
+    box-shadow: 5px 5px 10px #000000;
   }
   
   .msg {
@@ -223,9 +223,22 @@
     border: solid black 10px;
    
     transition: transform .5s;
-    box-shadow: 5px 5px 10px #6f7364;
+    box-shadow: 5px 5px 10px #000000;
   }
-  
+  #feedback {
+    background-color: #E2CFEA;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: .5em;
+    /* make this element invisible until we are ready for it */
+    display: none;      
+}
+.moveDown {
+    margin-top: 3em;
+}
+
   @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
@@ -249,7 +262,7 @@
     }
     .home-title {
         font-size: 25px;
-        color: #6f7364;
+        color: #ffffff;
     }
    
   
