@@ -73,7 +73,7 @@
     box-shadow: 5px 5px 10px #000000;
   }
   footer {
-    background-color: #623B5A;
+    background-color: #E2CFEA;
     padding: 25px 50px;
     margin-top: 200px;
     display: flex;
@@ -90,17 +90,17 @@
   }
   
   .msg h2, p {
-    color: black;
+    color: #623B5A;
   }
   footer h3{
-    color: black;
+    color: #623B5A;
   }
   footer a {
-    color: black;
+    color: #623B5A;
     text-decoration: none
   }
   footer a:hover {
-    color: rgb(190, 29, 222);
+    color: #E2CFEA;
   }
   
   .logo, .icon {
