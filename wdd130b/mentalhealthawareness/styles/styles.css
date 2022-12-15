@@ -1,0 +1,19 @@
+<section class="rapids-card">
+.mountains {
+    width: 100%;
+    box-shadow: 5px 5px 10px #000000;
+  }
+  
+  .msg {
+    width: 100%;
+  }
+  
+  .card-img:hover {
+    opacity: .6;
+    transform: scale(1.1);
+  }
+  .card-img {
+    border: solid #351431 10px;
+   
+    transition: transform .5s;
+    box-shadow: 5px 5px 10px #000000;
