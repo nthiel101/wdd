@@ -90,7 +90,7 @@
   }
   
   .msg h2, p {
-    color: #ffffff;
+    color: #000000;
   }
   footer h3{
     color: #623B5A;
@@ -237,9 +237,6 @@
 }
 .moveDown {
     margin-top: 3em;
-}
-#p {
-  color: #000000;
 }
 
   @media screen and (max-width: 900px) {
