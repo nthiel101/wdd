@@ -36,15 +36,18 @@
     z-index: 1;
   }
   header {
-    background-color: #6320EE;
+    background-color: #589A0D;
     width: 100%;
     display: grid;
     grid-template-columns: 150px auto;
     align-items: center;
   }
   nav a:hover {
-    background-color: #6320EE;
+    background-color: #589A0D;
     color: black;
+  }
+  .button-box{
+    text-align: center;
   }
   .mental-health-scrabble {
     width: 100%;
