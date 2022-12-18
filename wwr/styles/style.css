@@ -238,6 +238,9 @@
 .moveDown {
     margin-top: 3em;
 }
+#p {
+  color: #000000;
+}
 
   @media screen and (max-width: 900px) {
     #hero, .home-grid {
