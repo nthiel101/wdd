@@ -1,37 +1,14 @@
-.mental-health-scrabble {
-    width: 100%;
-    box-shadow: 5px 5px 10px #000000;
-  }
-  
-  .msg {
-    width: 100%;
-  }
-  .msg {
-    grid-column: 6/10;
-    grid-row: 6/7;
-  }
-  
-  .card-img:hover {
-    opacity: .6;
-    transform: scale(1.1);
-  }
-  .card-img {
-    border: solid #351431 10px;
-    transition: transform .5s;
-    box-shadow: 5px 5px 10px #000000;
-  }
+
   main section {
     text-align: center;
   }
-  .card-img .icon{
+  .card-img {
     width: 100%;
   }
-  
   .description.png {
     grid-column: 1/2;
     grid-row: 1/2;
   }
-  
   .resources.png {
     grid-column: 1/2;
     grid-row: 1/2;
@@ -57,6 +34,37 @@
     justify-self: center;
     align-self: center;
     z-index: 1;
+  }
+  header {
+    background-color: #6320EE;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 150px auto;
+    align-items: center;
+  }
+  nav a:hover {
+    background-color: #6320EE;
+    color: black;
+  }
+  .mental-health-scrabble {
+    width: 100%;
+    box-shadow: 5px 5px 10px #000000;
+  }
+  .msg {
+    width: 100%;
+  }
+  .msg {
+    grid-column: 6/10;
+    grid-row: 6/7;
+  }
+  .card-img:hover {
+    opacity: .6;
+    transform: scale(1.1);
+  }
+  .card-img {
+    border: solid #351431 10px;
+    transition: transform .5s;
+    box-shadow: 5px 5px 10px #000000;
   }
     #feedback {
       background-color: antiquewhite;
