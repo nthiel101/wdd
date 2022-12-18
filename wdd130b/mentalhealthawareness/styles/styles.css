@@ -46,9 +46,6 @@
     background-color: #589A0D;
     color: black;
   }
-  .button-box{
-    text-align: center;
-  }
   .mental-health-scrabble {
     width: 100%;
     box-shadow: 5px 5px 10px #000000;
@@ -57,8 +54,15 @@
     width: 100%;
   }
   .msg {
-    grid-column: 6/10;
-    grid-row: 6/7;
+    grid-column: 2/4;
+    grid-row: 3/4;
+  }
+  .resources-card, .description-card {
+    margin: 200px 0;
+  }  
+  .resources-card, .description-card {
+    margin: 50px auto;
+    width: 60%;
   }
   .card-img:hover {
     opacity: .6;
