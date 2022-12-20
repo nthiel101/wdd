@@ -98,12 +98,6 @@
         display: block;
         padding: 15px;
     }
-    #hero {
-        margin-top: 0;
-    }
-    #hero-msg {
-        margin-top: 0;
-    }
     #hero-msg h4 {
         display: none;
     }
@@ -112,11 +106,10 @@
         color: #589A0D;
     }
    
-  
     #background {
         display: none;
     }
-    .mountains, .msg {
+    .mental-health-scrabble, .msg {
         width: 80%;
         display: block;
         margin: 0 auto;
